@@ -1,0 +1,3 @@
+  - !!python/tuple [1,2]
+  - !!python/tuple [a,aa]
+  - !!python/tuple [a,b]
